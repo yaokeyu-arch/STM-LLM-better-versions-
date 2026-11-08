@@ -1,0 +1,4 @@
+interface:
+  display_name: "Saving Protocol"
+  short_description: "Organize each STM analysis run and its evidence."
+  default_prompt: "Use $saving-protocol to organize this STM analysis run with overall results and one complete evidence folder per image."

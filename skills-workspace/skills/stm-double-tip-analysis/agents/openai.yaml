@@ -1,0 +1,4 @@
+interface:
+  display_name: "STM Double-Tip Analysis"
+  short_description: "Analyze STM scans for double and multiple tips."
+  default_prompt: "Use $stm-double-tip-analysis to analyze this STM image group and preserve all evidence with $saving-protocol."
